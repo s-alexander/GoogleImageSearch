@@ -1,6 +1,6 @@
 //
 //  GoogleImageLoader.h
-//  GoogleSearchResults2
+//  GoogleImageSearch
 //
 //  Created by Alexander on 10/03/14.
 //  Copyright (c) 2014 Alexander. All rights reserved.

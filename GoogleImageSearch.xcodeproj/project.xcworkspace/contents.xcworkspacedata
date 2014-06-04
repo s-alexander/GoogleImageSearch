@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:GoogleSearchResults2.xcodeproj">
+      location = "self:GoogleImageSearch.xcodeproj">
    </FileRef>
 </Workspace>

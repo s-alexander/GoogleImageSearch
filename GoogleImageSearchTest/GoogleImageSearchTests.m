@@ -1,6 +1,6 @@
 //
-//  GoogleSearchResults2Tests.m
-//  GoogleSearchResults2Tests
+//  GoogleImageSearchTests.m
+//  GoogleImageSearchTests
 //
 //  Created by Alexander on 10/03/14.
 //  Copyright (c) 2014 Alexander. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface GoogleSearchResults2Tests : XCTestCase
+@interface GoogleImageSearchTests : XCTestCase
 
 @end
 
-@implementation GoogleSearchResults2Tests
+@implementation GoogleImageSearchTests
 
 - (void)setUp
 {
